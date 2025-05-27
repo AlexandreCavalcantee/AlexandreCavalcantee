@@ -1,1 +1,16 @@
-## Alexandre Cavalcante
+# 💫 About Me:
+My name is Alexandre Cavalcante, I'm 18 years old and a third-year Software Engineering student. My interest in technology, specifically software development, began at the age of 14, when I was encouraged to learn programming logic with Scratch and, later, web development with HTML. This initial experience was a determining factor in my decision to pursue a professional career in this field.<br><br>Currently, my study and development focus is on software engineering and back-end development. My background is marked by an intrinsic curiosity to understand the fundamental logic of systems, which led me to self-taught programming even before I entered higher education. This interest is reflected in my approach to solving problems and developing efficient systems.<br><br>I have knowledge of essential tools and technologies for back-end development, such as the Git version control system and the Linux operating environment, as well as a solid grounding in programming logic. I am continuously dedicated to improving these skills.<br><br>In parallel with my academic and technical training, I do activities such as chess and solving logic puzzles like the magic cube. These hobbies contribute significantly to the development of logical reasoning and the ability to solve complex problems, skills that I consider crucial for working in back-end development and systems engineering.<br><br>I'm looking for an internship opportunity or my first professional position in the field, where I can apply my knowledge, contribute to challenging projects and continue my professional development in a dynamic environment.<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrecavalcantee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexandrecavalcante.contato@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlexandreCavalcantee&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlexandreCavalcantee&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCavalcantee&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
