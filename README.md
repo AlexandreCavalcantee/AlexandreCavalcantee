@@ -1,6 +1,6 @@
 <!-- Header: generated daily by scripts/boot.py (.github/workflows/boot.yml) -->
 <p align="center">
-  <img src="assets/boot.svg" width="100%" alt="$ ./mvnw spring-boot:run — Alexandre Cavalcante, Back-end Developer"/>
+  <img src="assets/boot.svg" width="100%" alt="$ ./mvnw spring-boot:run — Alexandre Cavalcante, Full Stack Developer"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,mysql,aws,vercel,linux,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,angular,tailwind,nodejs,deno,supabase,postgres,java,spring,python,fastapi,mysql,docker,aws,linux,git&perline=9&theme=dark" />
 </p>
 
 ---

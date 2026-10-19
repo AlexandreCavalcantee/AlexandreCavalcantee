@@ -61,14 +61,16 @@ def cube_status():
 
 def log_lines(st):
     return [
-        ("INFO", "AlexandreApplication", "Starting AlexandreApplication using Java 21 on teresina-pi"),
-        ("INFO", "EducationService", "Software Engineering @ ICEV — 3rd year"),
-        ("INFO", "SkillsConfiguration", "Loaded beans: [Java, Spring, Python, TS, MySQL, AWS, Linux]"),
-        ("INFO", "BackendFocusConfig", "Focus set to back-end & systems engineering"),
+        ("INFO", "AlexandreApplication", "Starting AlexandreApplication on teresina-pi (Java 21 · Node · Deno)"),
+        ("INFO", "CareerService", "Full Stack Developer @ Prudêncio Advogados (since Apr 2026)"),
+        ("INFO", "ProjectRegistry", "Shipping WhatsJud (legal CRM + AI) & QuitePay (fintech/BaaS)"),
+        ("INFO", "CareerHistory", "Previously @ MedSafe: intern → Junior Full Stack (Java + Angular)"),
+        ("INFO", "SkillsConfiguration", "Loaded beans: [TS, React, Java, Spring, Supabase, Postgres]"),
+        ("INFO", "EducationService", "B.Sc. Software Engineering @ iCEV — graduating Dec 2027"),
         ("INFO", "GitHubStatsService", f"{st['repos']} public repos · {st['commits']} commits · {st['stars']} stars · {st['followers']} followers"),
         ("INFO", "HobbyScheduler", "Registered tasks: [chess, rubik-cube] — brain warmed up"),
         ("INFO", "CubeController", cube_status()),
-        ("WARN", "CareerService", "No internship bean found. Looking for opportunities..."),
+        ("WARN", "CoffeeMonitor", "Caffeine below threshold. Brewing another cup..."),
         ("INFO", "ContactEndpoint", "Exposed at linkedin.com/in/alexandrecavalcantee"),
         ("INFO", "AlexandreApplication", "Started AlexandreApplication — coding since age 14 🚀"),
     ]
@@ -88,7 +90,7 @@ def main():
         lines.append((y, f'<tspan fill="{C["spring"]}">{escape(row)}</tspan>', 0.15 + i * 0.07))
         y += lh
     lines.append((y, f'<tspan fill="{C["spring"]}"> :: Alexandre Cavalcante ::</tspan>'
-                     f'<tspan fill="{C["dim"]}">      (v3.0.0-SNAPSHOT · Back-end Developer)</tspan>', 0.7))
+                     f'<tspan fill="{C["dim"]}">      (v3.0.0-SNAPSHOT · Full Stack Developer)</tspan>', 0.7))
     y += lh * 1.6
 
     delay = 1.2
