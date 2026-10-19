@@ -1,12 +1,77 @@
-# 💫 About Me:
-My name is Alexandre Cavalcante, I'm 18 years old and a third-year Software Engineering student. My interest in technology, specifically software development, began at the age of 14, when I was encouraged to learn programming logic with Scratch and, later, web development with HTML. This initial experience was a determining factor in my decision to pursue a professional career in this field.<br><br>Currently, my study and development focus is on software engineering and back-end development. My background is marked by an intrinsic curiosity to understand the fundamental logic of systems, which led me to self-taught programming even before I entered higher education. This interest is reflected in my approach to solving problems and developing efficient systems.<br><br>I have knowledge of essential tools and technologies for back-end development, such as the Git version control system and the Linux operating environment, as well as a solid grounding in programming logic. I am continuously dedicated to improving these skills.<br><br>In parallel with my academic and technical training, I do activities such as chess and solving logic puzzles like the magic cube. These hobbies contribute significantly to the development of logical reasoning and the ability to solve complex problems, skills that I consider crucial for working in back-end development and systems engineering.<br><br>I'm looking for an internship opportunity or my first professional position in the field, where I can apply my knowledge, contribute to challenging projects and continue my professional development in a dynamic environment.<br>
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alexandre%20Cavalcante&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%E2%80%A2%20Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
+<!-- Texto digitando -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Alexandre+%F0%9F%91%8B;Back-end+Developer+%E2%98%95+Java+%2B+Spring;Software+Engineering+Student+%40+ICEV;Chess+player+%E2%99%9F%EF%B8%8F+%26+cuber+%F0%9F%A7%A9;Open+to+internship+opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrecavalcantee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexandrecavalcante.contato@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/alexandrecavalcantee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alexandrecavalcante.contato@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AlexandreCavalcantee&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=AlexandreCavalcantee&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCavalcantee&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+
+## 💫 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="coding"/>
+
+- 🎓 Third-year **Software Engineering** student at **ICEV** — Teresina, PI
+- ⚙️ Focused on **back-end development** and software engineering
+- 🧠 Self-taught since 14 — started with Scratch, then HTML, and never stopped
+- 🐧 Comfortable with **Linux**, **Git** and solid programming logic
+- ♟️ Chess player and 🧩 Rubik's cube solver — logic puzzles keep the brain sharp
+- 🚀 **Looking for an internship or my first professional position**
+
+<br clear="right"/>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,html,css,mysql,aws,vercel,git,github,linux,vscode&perline=7&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AlexandreCavalcantee/SkyBank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=SkyBank&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/AlexandreCavalcantee/OnPlay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=OnPlay&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/AlexandreCavalcantee/UniTune"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=UniTune&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/AlexandreCavalcantee/dijkstra-algorithm-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=dijkstra-algorithm-study&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexandreCavalcantee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCavalcantee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlexandreCavalcantee&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Cobrinha comendo as contribuições (gerada pela Action em .github/workflows/snake.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexandreCavalcantee/AlexandreCavalcantee/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/AlexandreCavalcantee/AlexandreCavalcantee/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<!-- Rodapé animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
