@@ -51,14 +51,6 @@ def stats():
     }
 
 
-def cube_status():
-    try:
-        s = json.loads((ROOT / "cube" / "state.json").read_text())
-        return f"Community cube: {s['total_moves']} moves, solved {len(s['solves'])}x — scroll down!"
-    except FileNotFoundError:
-        return "Community cube online (scroll down!)"
-
-
 def log_lines(st):
     return [
         ("INFO", "AlexandreApplication", "Starting AlexandreApplication on teresina-pi (Java 21 · Node · Deno)"),
@@ -69,7 +61,7 @@ def log_lines(st):
         ("INFO", "EducationService", "B.Sc. Software Engineering @ iCEV — graduating Dec 2027"),
         ("INFO", "GitHubStatsService", f"{st['repos']} public repos · {st['commits']} commits · {st['stars']} stars · {st['followers']} followers"),
         ("INFO", "HobbyScheduler", "Registered tasks: [chess, rubik-cube] — brain warmed up"),
-        ("INFO", "CubeController", cube_status()),
+        ("INFO", "CertificationLoader", "OCI · AWS Academy · Red Hat Linux · English C1 (Cambridge)"),
         ("WARN", "CoffeeMonitor", "Caffeine below threshold. Brewing another cup..."),
         ("INFO", "ContactEndpoint", "Exposed at linkedin.com/in/alexandrecavalcantee"),
         ("INFO", "AlexandreApplication", "Started AlexandreApplication — coding since age 14 🚀"),
