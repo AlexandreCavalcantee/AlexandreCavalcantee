@@ -26,10 +26,10 @@
 ## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/AlexandreCavalcantee/supabase-multitenant-saas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=supabase-multitenant-saas&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/AlexandreCavalcantee/Checklist-Digital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=Checklist-Digital&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/AlexandreCavalcantee/UniTune"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=UniTune&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/AlexandreCavalcantee/unified-test-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=unified-test-automation&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/AlexandreCavalcantee/dijkstra-algorithm-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=dijkstra-algorithm-study&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ## 📊 Stats
