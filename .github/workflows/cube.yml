@@ -1,0 +1,68 @@
+name: Rubik's cube move
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'cube|')
+    runs-on: ubuntu-latest
+    env:
+      # Passed through env so the issue title is never interpolated into the shell.
+      TITLE: ${{ github.event.issue.title }}
+      PLAYER: ${{ github.event.issue.user.login }}
+      ISSUE: ${{ github.event.issue.number }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Apply move and push (retries if someone else moved first)
+        id: move
+        run: |
+          git config user.name "cube-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main && git reset --hard origin/main
+            set +e
+            result=$(python3 scripts/cube.py move "$TITLE" "$PLAYER")
+            code=$?
+            set -e
+            echo "$result"
+            if [ $code -ne 0 ]; then
+              echo "rejected=$result" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git add -A
+            git commit -m "🧩 @$PLAYER played ${TITLE#cube|}"
+            if git push origin HEAD:main; then
+              echo "solved=$([ "$result" = SOLVED ] && echo 1)" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep $((attempt * 3))
+          done
+          exit 1
+
+      - name: Reply and close the issue
+        if: always()
+        env:
+          REJECTED: ${{ steps.move.outputs.rejected }}
+          SOLVED: ${{ steps.move.outputs.solved }}
+          OUTCOME: ${{ steps.move.outcome }}
+        run: |
+          repo="https://github.com/${{ github.repository }}"
+          if [ -n "$REJECTED" ]; then
+            msg="🤔 Couldn't play that: \`$REJECTED\`. Pick a move from the [profile]($repo)."
+          elif [ "$OUTCOME" != "success" ]; then
+            msg="😵 Something went wrong turning the cube. Please try again in a minute."
+          elif [ -n "$SOLVED" ]; then
+            msg="🎉🎉 **YOU SOLVED IT!** @$PLAYER finished the community cube. You're on the [leaderboard]($repo) forever."
+          else
+            msg="✅ Done! @$PLAYER, your move is on the cube. [See it here]($repo) (refresh if the image looks cached)."
+          fi
+          gh issue comment "$ISSUE" -R "${{ github.repository }}" --body "$msg"
+          gh issue close "$ISSUE" -R "${{ github.repository }}"

@@ -1,13 +1,6 @@
-<!-- Banner animado -->
+<!-- Header: generated daily by scripts/boot.py (.github/workflows/boot.yml) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alexandre%20Cavalcante&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%E2%80%A2%20Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<!-- Texto digitando -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Alexandre+%F0%9F%91%8B;Back-end+Developer+%E2%98%95+Java+%2B+Spring;Software+Engineering+Student+%40+ICEV;Chess+player+%E2%99%9F%EF%B8%8F+%26+cuber+%F0%9F%A7%A9;Open+to+internship+opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
+  <img src="assets/boot.svg" width="100%" alt="$ ./mvnw spring-boot:run — Alexandre Cavalcante, Back-end Developer"/>
 </p>
 
 <p align="center">
@@ -16,30 +9,46 @@
   <img src="https://komarev.com/ghpvc/?username=AlexandreCavalcantee&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </p>
 
----
-
-## 💫 About Me
-
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="coding"/>
-
-- 🎓 Third-year **Software Engineering** student at **ICEV** — Teresina, PI
-- ⚙️ Focused on **back-end development** and software engineering
-- 🧠 Self-taught since 14 — started with Scratch, then HTML, and never stopped
-- 🐧 Comfortable with **Linux**, **Git** and solid programming logic
-- ♟️ Chess player and 🧩 Rubik's cube solver — logic puzzles keep the brain sharp
-- 🚀 **Looking for an internship or my first professional position**
-
-<br clear="right"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,mysql,aws,vercel,linux,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🧩 Solve my Rubik's cube
+
+I solve Rubik's cubes in my spare time — now it's **your** turn. This cube is shared by everyone who visits this page.
+Click a move below, hit **Submit new issue**, and a GitHub Action turns the cube for you in ~30 seconds.
+
+<!--CUBE_START-->
+<p align="center"><img src="cube/cube.svg" width="640" alt="Community Rubik's cube"/></p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,html,css,mysql,aws,vercel,git,github,linux,vscode&perline=7&theme=dark" />
-  </a>
+  <b>0</b> moves since the last scramble · <b>0</b> moves all‑time · solved <b>0</b>×<br/>
+  <sub>Nobody has solved it yet. 👀</sub>
 </p>
+
+| | U | R | F | D | L | B |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **clockwise** | [`U`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CU&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`R`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CR&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`F`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CF&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`D`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CD&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`L`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CL&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`B`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CB&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) |
+| **counter‑clockwise** | [`U'`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CU%27&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`R'`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CR%27&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`F'`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CF%27&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`D'`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CD%27&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`L'`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CL%27&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`B'`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CB%27&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) |
+| **180°** | [`U2`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CU2&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`R2`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CR2&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`F2`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CF2&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`D2`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CD2&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`L2`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CL2&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) | [`B2`](https://github.com/AlexandreCavalcantee/AlexandreCavalcantee/issues/new?title=cube%7CB2&body=Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20a%20GitHub%20Action%20will%20turn%20the%20cube%20for%20you.%20%F0%9F%A7%A9) |
+
+<details>
+<summary>🎲 Recent moves & top cubers</summary>
+
+| Move | Player | When (UTC) |
+|:-:|:-|:-|
+| — | nobody yet, be the first! | — |
+
+| # | Player | Moves |
+|:-:|:-|:-:|
+| — | — | — |
+
+Current scramble: `R2 L2 U L' U L B' R' D U2 F2 B D U2 F2 L R2 U2 R B'`
+
+</details>
+<!--CUBE_END-->
 
 ---
 
@@ -52,26 +61,16 @@
   <a href="https://github.com/AlexandreCavalcantee/dijkstra-algorithm-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCavalcantee&repo=dijkstra-algorithm-study&theme=tokyonight&hide_border=true" /></a>
 </p>
 
----
-
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexandreCavalcantee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCavalcantee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexandreCavalcantee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=AlexandreCavalcantee&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexandreCavalcantee&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- Cobrinha comendo as contribuições (gerada pela Action em .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexandreCavalcantee/AlexandreCavalcantee/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/AlexandreCavalcantee/AlexandreCavalcantee/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlexandreCavalcantee/AlexandreCavalcantee/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<!-- Rodapé animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>

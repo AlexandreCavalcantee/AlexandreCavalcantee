@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="412" viewBox="0 0 980 412">
+<style>
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:13px;white-space:pre}
+.l{opacity:0;animation:in .25s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.cur{opacity:0;animation:blink 1s step-end infinite}
+@keyframes blink{0%,100%{opacity:0}50%{opacity:1}}
+</style>
+<rect x=".5" y=".5" width="979" height="411" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 30V10.5a10 10 0 0 1 10-10h959a10 10 0 0 1 10 10V30z" fill="#161b22"/>
+<circle cx="20" cy="15" r="6" fill="#ff5f56"/><circle cx="40" cy="15" r="6" fill="#ffbd2e"/><circle cx="60" cy="15" r="6" fill="#27c93f"/>
+<text x="490.0" y="19" fill="#6e7681" text-anchor="middle">alexandre@github: ~/profile — ./mvnw spring-boot:run</text>
+<text class="l" x="18" y="52" xml:space="preserve" style="animation-delay:0.15s"><tspan fill="#6db33f">  .          _                          _            __ _ _</tspan></text>
+<text class="l" x="18" y="71" xml:space="preserve" style="animation-delay:0.22s"><tspan fill="#6db33f"> /\\    __ _| | _____  ____ _ _ __   __| |_ __ ___  \ \ \ \</tspan></text>
+<text class="l" x="18" y="90" xml:space="preserve" style="animation-delay:0.29s"><tspan fill="#6db33f">( ( )  / _` | |/ _ \ \/ / _` | '_ \ / _` | '__/ _ \  \ \ \ \</tspan></text>
+<text class="l" x="18" y="109" xml:space="preserve" style="animation-delay:0.36s"><tspan fill="#6db33f"> \\/  | (_| | |  __/&gt;  &lt; (_| | | | | (_| | | |  __/   ) ) ) )</tspan></text>
+<text class="l" x="18" y="128" xml:space="preserve" style="animation-delay:0.43s"><tspan fill="#6db33f">  '    \__,_|_|\___/_/\_\__,_|_| |_|\__,_|_|  \___|  / / / /</tspan></text>
+<text class="l" x="18" y="147" xml:space="preserve" style="animation-delay:0.50s"><tspan fill="#6db33f"> ===================================================/_/_/_/</tspan></text>
+<text class="l" x="18" y="166" xml:space="preserve" style="animation-delay:0.70s"><tspan fill="#6db33f"> :: Alexandre Cavalcante ::</tspan><tspan fill="#6e7681">      (v3.0.0-SNAPSHOT · Back-end Developer)</tspan></text>
+<text class="l" x="18" y="196" xml:space="preserve" style="animation-delay:1.20s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#3fb950">INFO </tspan><tspan fill="#a78bfa">   AlexandreApplication</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#c9d1d9">Starting AlexandreApplication using Java 21 on teresina-pi</tspan></text>
+<text class="l" x="18" y="215" xml:space="preserve" style="animation-delay:1.65s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#3fb950">INFO </tspan><tspan fill="#a78bfa">       EducationService</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#c9d1d9">Software Engineering @ ICEV — 3rd year</tspan></text>
+<text class="l" x="18" y="234" xml:space="preserve" style="animation-delay:2.10s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#3fb950">INFO </tspan><tspan fill="#a78bfa">    SkillsConfiguration</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#c9d1d9">Loaded beans: [Java, Spring, Python, TS, MySQL, AWS, Linux]</tspan></text>
+<text class="l" x="18" y="253" xml:space="preserve" style="animation-delay:2.55s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#3fb950">INFO </tspan><tspan fill="#a78bfa">     BackendFocusConfig</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#c9d1d9">Focus set to back-end &amp; systems engineering</tspan></text>
+<text class="l" x="18" y="272" xml:space="preserve" style="animation-delay:3.00s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#3fb950">INFO </tspan><tspan fill="#a78bfa">     GitHubStatsService</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#c9d1d9">15 public repos · 1902 commits · 47 stars · 19 followers</tspan></text>
+<text class="l" x="18" y="291" xml:space="preserve" style="animation-delay:3.45s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#3fb950">INFO </tspan><tspan fill="#a78bfa">         HobbyScheduler</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#c9d1d9">Registered tasks: [chess, rubik-cube] — brain warmed up</tspan></text>
+<text class="l" x="18" y="310" xml:space="preserve" style="animation-delay:3.90s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#3fb950">INFO </tspan><tspan fill="#a78bfa">         CubeController</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#c9d1d9">Community cube: 0 moves, solved 0x — scroll down!</tspan></text>
+<text class="l" x="18" y="329" xml:space="preserve" style="animation-delay:4.35s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#d29922">WARN </tspan><tspan fill="#a78bfa">          CareerService</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#d29922">No internship bean found. Looking for opportunities...</tspan></text>
+<text class="l" x="18" y="348" xml:space="preserve" style="animation-delay:5.25s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#3fb950">INFO </tspan><tspan fill="#a78bfa">        ContactEndpoint</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#c9d1d9">Exposed at linkedin.com/in/alexandrecavalcantee</tspan></text>
+<text class="l" x="18" y="367" xml:space="preserve" style="animation-delay:5.70s"><tspan fill="#6e7681">2026-10-19 20:55:45 </tspan><tspan fill="#3fb950">INFO </tspan><tspan fill="#a78bfa">   AlexandreApplication</tspan><tspan fill="#6e7681"> : </tspan><tspan fill="#c9d1d9">Started AlexandreApplication — coding since age 14 🚀</tspan></text>
+<rect class="cur" x="18" y="377" width="8" height="15" fill="#c9d1d9" style="animation-delay:6.15s"/>
+</svg>
