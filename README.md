@@ -24,7 +24,7 @@ Click a move below, hit **Submit new issue**, and a GitHub Action turns the cube
 <p align="center"><img src="cube/cube.svg" width="640" alt="Community Rubik's cube"/></p>
 
 <p align="center">
-  <b>0</b> moves since the last scramble · <b>0</b> moves all‑time · solved <b>0</b>×<br/>
+  <b>1</b> moves since the last scramble · <b>1</b> moves all‑time · solved <b>0</b>×<br/>
   <sub>Nobody has solved it yet. 👀</sub>
 </p>
 
@@ -39,11 +39,11 @@ Click a move below, hit **Submit new issue**, and a GitHub Action turns the cube
 
 | Move | Player | When (UTC) |
 |:-:|:-|:-|
-| — | nobody yet, be the first! | — |
+| `R` | [@AlexandreCavalcantee](https://github.com/AlexandreCavalcantee) | 2026-10-19 20:56 |
 
 | # | Player | Moves |
 |:-:|:-|:-:|
-| — | — | — |
+| 1 | [@AlexandreCavalcantee](https://github.com/AlexandreCavalcantee) | 1 |
 
 Current scramble: `R2 L2 U L' U L B' R' D U2 F2 B D U2 F2 L R2 U2 R B'`
 

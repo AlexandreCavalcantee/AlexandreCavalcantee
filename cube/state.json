@@ -1,16 +1,24 @@
 {
   "stickers": {
-    "U": "LBDLURDUR",
-    "R": "DBBBRRBLU",
-    "F": "LLFUFLLUD",
-    "D": "URLDDDFUR",
+    "U": "LBFLULDUD",
+    "R": "BBDLRBURB",
+    "F": "LLLUFDLUR",
+    "D": "URBDDFFUR",
     "L": "BFFDLFRRF",
-    "B": "RDUFBFBBU"
+    "B": "RDURBFDBU"
   },
   "scramble": "R2 L2 U L' U L B' R' D U2 F2 B D U2 F2 L R2 U2 R B'",
-  "moves": 0,
-  "history": [],
+  "moves": 1,
+  "history": [
+    {
+      "move": "R",
+      "user": "AlexandreCavalcantee",
+      "date": "2026-10-19 20:56"
+    }
+  ],
   "solves": [],
-  "players": {},
-  "total_moves": 0
+  "players": {
+    "AlexandreCavalcantee": 1
+  },
+  "total_moves": 1
 }
